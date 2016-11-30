@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
 
-if [[ ! $(git remote) =~ /origin2/ ]]; then
-  echo "ERROR: no 'origin' remote was found"
-  exit 1
-fi
-
-bundle exec rake build
-bundle exec rake publish
+rake build
+rake publish
