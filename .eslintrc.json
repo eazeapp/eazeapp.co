@@ -1,0 +1,25 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "globals": {
+    "_": false,
+    "$": false,
+    "Routes": false,
+    "App": false,
+    "routie": false,
+    "Mixpanel": false,
+    "AnalyticsEvents": false
+  },
+  "rules": {
+    "consistent-return": 0,
+    "space-before-function-paren": [2, "never"],
+    "id-length": [2, {"exceptions": ["_"]}],
+    "new-cap": [2, {
+      "capIsNewExceptions": ["CSSModules"]
+    }],
+    "max-len": 0
+  }
+}

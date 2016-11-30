@@ -1,0 +1,14 @@
+{
+  "name": "eazeapp.co",
+  "version": "0.0.0",
+  "author": "Eaze",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eazeapp/eazeapp.github.io"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.8",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^4.0.0"
+  }
+}
