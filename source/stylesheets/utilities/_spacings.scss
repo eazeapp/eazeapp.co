@@ -1,0 +1,15 @@
+$spacings: (
+  tiny: $space-tiny,
+  xSmall: $space-xSmall,
+  small: $space-small,
+  base: $space-base,
+  large: $space-large,
+  xLarge: $space-xLarge,
+  huge: $space-huge
+);
+
+@each $name, $value in $spacings {
+  .u-#{$name}PushBottom {
+    margin-bottom: $value;
+  }
+}

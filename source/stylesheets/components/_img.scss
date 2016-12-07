@@ -1,0 +1,14 @@
+$img-max-width: 264px;
+
+.Img {
+  max-width: $img-max-width;
+}
+
+.Img.separator {
+  display: block;
+  margin-bottom: -100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

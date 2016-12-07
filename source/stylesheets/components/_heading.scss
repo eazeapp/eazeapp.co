@@ -1,0 +1,12 @@
+.Heading {
+  font-size: $font-size-large;
+  font-weight: $font-weight;
+}
+
+.Heading.secondary {
+  font-size: $font-size-base;
+}
+
+.Heading.faded {
+  opacity: 0.7;
+}

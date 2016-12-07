@@ -1,0 +1,21 @@
+.Panel.blue {
+  background-image: linear-gradient(to bottom, $color-dodger-blue,
+  $color-water-blue);
+}
+
+.Panel.white {
+  background-color: $color-white;
+}
+
+.Panel.padded {
+  .Panel-content {
+    padding: $space-huge;
+    margin: $space-xSmall;
+  }
+}
+
+.Panel.hero {
+  display: flex;
+  flex-direction: column;
+  min-height: 90%;
+}
