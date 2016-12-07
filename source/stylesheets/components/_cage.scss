@@ -1,0 +1,14 @@
+$Cage-sizes: (
+  base: 492px,
+  large: 515px,
+);
+
+@each $name, $value in $Cage-sizes {
+  .Cage.#{$name} {
+    width: $value;
+  }
+}
+
+.Cage {
+  max-width: 100%;
+}
