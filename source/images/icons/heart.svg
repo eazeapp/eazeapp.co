@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#34BCFF" offset="0%"></stop>
+            <stop stop-color="#149CE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-666.000000, -816.000000)" fill="url(#linearGradient-1)">
+            <g id="heart" transform="translate(666.000000, 816.000000)">
+                <path d="M18,34.2 C26.9470129,34.2 34.2,26.9470129 34.2,18 C34.2,9.05298705 26.9470129,1.8 18,1.8 C9.05298705,1.8 1.8,9.05298705 1.8,18 C1.8,26.9470129 9.05298705,34.2 18,34.2 Z M18,36 C8.0588745,36 0,27.9411255 0,18 C0,8.0588745 8.0588745,0 18,0 C27.9411255,0 36,8.0588745 36,18 C36,27.9411255 27.9411255,36 18,36 Z" id="Combined-Shape"></path>
+                <path d="M18,12.8233458 C15.4029,7.96154581 8.1,9.38084581 8.1,15.4729458 C8.1,19.6678458 12.696075,23.9572458 18,29.7001458 C23.30475,23.9572458 27.9,19.6678458 27.9,15.4729458 C27.9,9.36014581 20.578125,7.99754581 18,12.8233458 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

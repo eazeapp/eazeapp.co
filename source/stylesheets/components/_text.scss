@@ -1,0 +1,10 @@
+$text-line-height: 1.5;
+
+.Text {
+  font-family: $font-family;
+  line-height: $text-line-height;
+}
+
+.Text.steelTwo {
+  color: $color-steel-two;
+}

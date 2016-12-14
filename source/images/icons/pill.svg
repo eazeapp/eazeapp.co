@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>pill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#34BCFF" offset="0%"></stop>
+            <stop stop-color="#149CE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-666.000000, -1884.000000)" fill="url(#linearGradient-1)">
+            <path d="M669.263891,1916.73647 C671.211546,1918.68412 674.374347,1918.68883 676.316153,1916.74702 L687.531769,1905.53141 L680.468953,1898.46859 L669.253337,1909.68421 C667.312163,1911.62538 667.314633,1914.78721 669.263891,1916.73647 Z M667.991312,1918.00905 C665.338143,1915.35588 665.337839,1911.05455 667.980757,1908.41163 L690.41199,1885.9804 C693.059329,1883.33306 697.361639,1883.34318 700.00941,1885.99095 C702.662579,1888.64412 702.662882,1892.94545 700.019964,1895.58837 L677.588732,1918.0196 C674.941392,1920.66694 670.639082,1920.65682 667.991312,1918.00905 Z" id="pill"></path>
+        </g>
+    </g>
+</svg>

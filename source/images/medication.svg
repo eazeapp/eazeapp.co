@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="398px" height="460px" viewBox="0 0 398 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>medication</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-251.000000, -1804.000000)">
+            <g id="medication" transform="translate(270.000000, 1800.000000)">
+                <rect id="Rectangle" fill-opacity="0.2" fill="#535B6F" filter="url(#filter-1)" x="24" y="48" width="312" height="72" rx="24"></rect>
+                <rect id="Rectangle" fill-opacity="0.2" fill="#535B6F" filter="url(#filter-2)" x="24" y="132" width="312" height="72" rx="24"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="12" y="36" width="336" height="72" rx="6"></rect>
+                <text id="Ranexa" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="67">Ranexa</tspan>
+                </text>
+                <text id="Bi-daily,-10:00-AM--" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="86">Bi-daily, 10:00 AM - 08:00PM </tspan>
+                </text>
+                <rect id="Rectangle" fill="#FFFFFF" x="12" y="120" width="336" height="72" rx="6"></rect>
+                <text id="Singulair" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="151">Singulair</tspan>
+                </text>
+                <text id="Daily,-09:00-PM" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="170">Daily, 09:00 PM</tspan>
+                </text>
+                <text id="500mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="280.416" y="67">500mg</tspan>
+                </text>
+                <text id="10mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="294.132" y="151">10mg</tspan>
+                </text>
+                <g id="Group-3" transform="translate(0.000000, 60.000000)">
+                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
+                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <rect id="Rectangle" fill-opacity="0.2" fill="#535B6F" filter="url(#filter-3)" x="24" y="348" width="312" height="72" rx="24"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="12" y="336" width="336" height="72" rx="6"></rect>
+                <text id="Ranexa" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="367">Ranexa</tspan>
+                </text>
+                <text id="Bi-daily,-10:00-AM--" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="386">Bi-daily, 10:00 AM - 08:00PM </tspan>
+                </text>
+                <text id="500mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="280.416" y="367">500mg</tspan>
+                </text>
+                <g id="Group-3" transform="translate(0.000000, 360.000000)">
+                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
+                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <g id="Group-3" transform="translate(0.000000, 144.000000)">
+                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
+                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <rect id="Rectangle" fill-opacity="0.2" fill="#535B6F" filter="url(#filter-4)" x="24" y="216" width="312" height="72" rx="24"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="12" y="204" width="336" height="72" rx="6"></rect>
+                <text id="Singulair" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="235">Singulair</tspan>
+                </text>
+                <text id="Daily,-09:00-PM" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="254">Daily, 09:00 PM</tspan>
+                </text>
+                <text id="10mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="294.132" y="235">10mg</tspan>
+                </text>
+                <g id="Group-3" transform="translate(0.000000, 228.000000)">
+                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
+                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <text id="For-Your-Medical-Con" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="12" y="19">For Your Medical Condition</tspan>
+                </text>
+                <text id="For-General-Medicati" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="12" y="319">For General Medication</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
