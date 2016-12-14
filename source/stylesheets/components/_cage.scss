@@ -1,3 +1,5 @@
+$cage-push-right: 2 * $space-large;
+
 $Cage-sizes: (
   base: 492px,
   large: 515px,
@@ -11,4 +13,8 @@ $Cage-sizes: (
 
 .Cage {
   max-width: 100%;
+}
+
+.Cage.pushRight {
+  margin-right: $cage-push-right;
 }
