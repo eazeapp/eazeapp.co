@@ -2,7 +2,7 @@
   icon: heart.svg
   title: Recommended Appointments
   text: An advanced AI that feeds of your health profile data and conditions and displays recommended visits to certified specialists.
-- img: recommended.svg
+- img: calendar.svg
   icon: calendar.svg
   title: Health Events Scheduler
   text: Manage all your important health events, from check-ups to analysis to your daily medication needs, through a simple, user-friendly event scheduler.
