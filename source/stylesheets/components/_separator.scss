@@ -1,0 +1,25 @@
+$separator-container: 80px;
+$separator-translate-small: 48px;
+$separator-translate-base: 96px;
+$separator-translate-large: 144px;
+$separator-translate-h116: 116px;
+
+.Separator {
+  margin-bottom: -$separator-container;
+
+  .Separator-small {
+    transform: translateY($separator-translate-small);
+  }
+
+  .Separator-base {
+    transform: translateY($separator-translate-base);
+  }
+
+  .Separator-large {
+    transform: translateY($separator-translate-large);
+  }
+
+  .Separator-h116 {
+    transform: translateY($separator-translate-h116);
+  }
+}

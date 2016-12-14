@@ -1,5 +1,8 @@
 $img-max-width: 264px;
 $img-separator-transform: 90px;
+$img-trinity-transform-small: 190px;
+$img-trinity-transform-base: 280px;
+$img-trinity-transform-large: 400px;
 
 .Img {
   max-width: $img-max-width;
@@ -9,4 +12,16 @@ $img-separator-transform: 90px;
   display: block;
 
   transform: translateY($img-separator-transform);
+
+  &.trinity.small {
+    transform: translateY($img-trinity-transform-small);
+  }
+
+  &.trinity.base {
+    transform: translateY($img-trinity-transform-base);
+  }
+
+  &.trinity.large {
+    transform: translateY($img-trinity-transform-large);
+  }
 }

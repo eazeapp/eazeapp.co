@@ -12,4 +12,12 @@ $spacings: (
   .u-#{$name}PushBottom {
     margin-bottom: $value;
   }
+
+  .u-#{$name}PaddingBottom {
+    padding-bottom: $value;
+  }
+
+  .u-#{$name}PushRight {
+    margin-right: $value;
+  }
 }
