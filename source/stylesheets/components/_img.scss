@@ -7,21 +7,3 @@ $img-trinity-transform-large: 400px;
 .Img {
   max-width: $img-max-width;
 }
-
-.Img.separator {
-  display: block;
-
-  transform: translateY($img-separator-transform);
-
-  &.trinity.small {
-    transform: translateY($img-trinity-transform-small);
-  }
-
-  &.trinity.base {
-    transform: translateY($img-trinity-transform-base);
-  }
-
-  &.trinity.large {
-    transform: translateY($img-trinity-transform-large);
-  }
-}
