@@ -1,9 +1,9 @@
-.Flex.row
-  .Cage.u-largePushRight
-    img src="images/#{feature.img}"
+.Flex.column.rowDesktop
+  .Cage.u-largePushRightDesktop
+    img.Img.full src="images/#{feature.img}"
 
-  .Cage.large.Flex.column.alignStart.justifyCenter
-    img src="images/icons/#{feature.icon}"
+  .Cage.large.Flex.column.justifyCenter.alignCenter.alignStartDesktop
+    img.Icon src="images/icons/#{feature.icon}"
 
     .u-xSmallPushBottom
 
@@ -14,3 +14,5 @@
     .Cage.small
       .Text.steelTwo
         = feature.text
+
+    .u-hugePushBottom.u-mobile

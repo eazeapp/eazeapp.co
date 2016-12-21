@@ -8,7 +8,7 @@ $Cage-sizes: (
 
 @each $name, $value in $Cage-sizes {
   .Cage.#{$name} {
-    width: $value;
+    max-width: $value;
   }
 }
 

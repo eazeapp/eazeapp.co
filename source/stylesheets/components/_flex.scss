@@ -18,6 +18,12 @@
   align-items: flex-start;
 }
 
+.Flex.alignStartDesktop {
+  @include desktop {
+    align-items: flex-start;
+  }
+}
+
 .Flex.justifyCenter {
   justify-content: center;
 }
@@ -28,4 +34,10 @@
 
 .Flex.spaceAround {
   justify-content: space-around;
+}
+
+.Flex.rowDesktop {
+  @include desktop {
+    flex-direction: row;
+  }
 }

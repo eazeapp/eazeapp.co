@@ -7,3 +7,7 @@ $img-trinity-transform-large: 400px;
 .Img {
   max-width: $img-max-width;
 }
+
+.Img.full {
+  max-width: 100%;
+}

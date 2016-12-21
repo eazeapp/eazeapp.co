@@ -1,3 +1,7 @@
+.Panel {
+  padding: $space-xSmall;
+}
+
 .Panel.blue {
   background-image: linear-gradient(to bottom, $color-dodger-blue,
   $color-water-blue);

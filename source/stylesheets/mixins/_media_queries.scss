@@ -1,0 +1,11 @@
+@mixin mobile {
+  @include media('<850px') {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @include media('>=850px') {
+    @content;
+  }
+}

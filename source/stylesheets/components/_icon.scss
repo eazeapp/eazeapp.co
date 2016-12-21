@@ -1,0 +1,10 @@
+$icon-size-mobile: 24px;
+$icon-size-desktop: 36px;
+
+.Icon {
+  max-width: $icon-size-mobile;
+
+  @include desktop {
+    max-width: $icon-size-desktop;
+  }
+}

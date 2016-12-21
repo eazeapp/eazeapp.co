@@ -12,6 +12,8 @@ $newsletter-submit-width: 120px;
 }
 
 .Newsletter-email {
+  @include font($size: 'small');
+
   width: 100%;
 
   border: 0;
@@ -19,7 +21,6 @@ $newsletter-submit-width: 120px;
   color: $color-slate;
 
   font-family: $font-family;
-  font-size: $font-size-small;
 
   &:focus {
     outline: none;
@@ -27,6 +28,8 @@ $newsletter-submit-width: 120px;
 }
 
 .Newsletter-submitButton {
+  @include font($size: 'small');
+
   display: inline-block;
   box-sizing: border-box;
   width: $newsletter-submit-width;
@@ -40,7 +43,6 @@ $newsletter-submit-width: 120px;
   color: $color-white;
 
   font-family: $font-family;
-  font-size: $font-size-small;
   line-height: 1.5;
 
   transition: all 0.2s ease-in-out 0s;

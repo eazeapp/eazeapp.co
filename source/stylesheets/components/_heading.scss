@@ -1,10 +1,11 @@
 .Heading {
-  font-size: $font-size-large;
+  @include font($size: 'large');
+
   font-weight: $font-weight;
 }
 
 .Heading.secondary {
-  font-size: $font-size-base;
+  @include font;
 }
 
 .Heading.bold {
@@ -13,8 +14,4 @@
 
 .Heading.faded {
   opacity: 0.7;
-}
-
-.Heading.center {
-  text-align: center;
 }

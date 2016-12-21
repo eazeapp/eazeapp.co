@@ -20,4 +20,10 @@ $spacings: (
   .u-#{$name}PushRight {
     margin-right: $value;
   }
+
+  .u-#{$name}PushRightDesktop {
+    @include desktop {
+      margin-right: $value;
+    }
+  }
 }
