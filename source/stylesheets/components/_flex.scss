@@ -41,3 +41,11 @@
     flex-direction: row;
   }
 }
+
+.Flex {
+  .selfCenterMobile {
+    @include mobile {
+      align-self: center;
+    }
+  }
+}
