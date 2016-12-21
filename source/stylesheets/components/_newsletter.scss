@@ -1,0 +1,52 @@
+$form-max-width: 515px;
+$newsletter-submit-padding-tiny: 6px;
+$newsletter-submit-padding-small: $space-xSmall;
+$newsletter-submit-height: 48px;
+$newsletter-submit-width: 120px;
+
+.Newsletter-form {
+  width: 100%;
+  max-width: $form-max-width;
+
+  text-align: right;
+}
+
+.Newsletter-email {
+  width: 100%;
+
+  border: 0;
+  border-bottom: 1px solid $color-steel-two;
+  color: $color-slate;
+
+  font-family: $font-family;
+  font-size: $font-size-small;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.Newsletter-submitButton {
+  display: inline-block;
+  box-sizing: border-box;
+  width: $newsletter-submit-width;
+  height: $newsletter-submit-height;
+  padding: $newsletter-submit-padding-tiny $newsletter-submit-padding-small;
+  margin: 0;
+
+  background-color: $color-light-salmon;
+  border: 0;
+  border-radius: $newsletter-submit-padding-tiny;
+  color: $color-white;
+
+  font-family: $font-family;
+  font-size: $font-size-small;
+  line-height: 1.5;
+
+  transition: all 0.2s ease-in-out 0s;
+
+  &:hover {
+    background-color: lighten($color-light-salmon, 3);
+    cursor: pointer;
+  }
+}
