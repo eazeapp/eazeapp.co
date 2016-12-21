@@ -1,0 +1,6 @@
+.Flex.row.spaceBetween
+  - data.social.each_with_index do |social, index|
+    - if index == data.social.length - 1
+      = partial "footer/social", locals: { social: social, className: "" }
+    - else
+      = partial "footer/social", locals: { social: social, className: "u-xSmallPushRight" }

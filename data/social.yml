@@ -1,0 +1,15 @@
+- name: Facebook
+  icon: facebook.svg
+  link: "#"
+
+- name: Twitter
+  icon: twitter.svg
+  link: "#"
+
+- name: Instagram
+  icon: instagram.svg
+  link: "#"
+
+- name: Medium
+  icon: medium.svg
+  link: "#"

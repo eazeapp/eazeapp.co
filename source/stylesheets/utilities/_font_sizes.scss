@@ -1,0 +1,7 @@
+.u-large {
+  @include font($size: 'large');
+}
+
+.u-small {
+  @include font($size: 'small');
+}

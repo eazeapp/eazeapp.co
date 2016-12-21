@@ -12,9 +12,12 @@
   color: $color-slate;
 }
 
+.Panel.dark {
+  background-image: linear-gradient(to bottom, $color-steel, $color-charcoal-grey);
+}
+
 .Panel.padded {
   .Panel-content {
     padding: $space-huge;
-    margin: $space-xSmall;
   }
 }
