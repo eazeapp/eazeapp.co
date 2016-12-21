@@ -1,0 +1,7 @@
+$shadow-blur: 20px;
+$shadow-length: 16px;
+$shadow-opacity: 0.3;
+
+.u-shadow {
+  filter: drop-shadow(0 $shadow-length $shadow-blur rgba(68, 102, 145, $shadow-opacity));
+}
