@@ -1,6 +1,7 @@
 .Flex.column.rowDesktop
   .Cage.u-largePushRightDesktop
-    img.Img.full src="images/#{feature.img}"
+    .Img.full
+      = partial "images/#{feature.img}"
 
   .Cage.large.Flex.column.justifyCenter.alignCenter.alignStartDesktop
     img.Icon src="images/icons/#{feature.icon}"
