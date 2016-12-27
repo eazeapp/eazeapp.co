@@ -32,11 +32,11 @@
                 <rect id="Rectangle" fill-opacity="0.2" fill="#446691" filter="url(#filter-1)" x="24" y="12" width="312" height="132" rx="24"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="0" width="336" height="96" rx="6"></rect>
                 <text id="Pulmonary-Function-T" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
-                    <tspan x="36" y="31">Pulmonary Function Test</tspan>
+                    <tspan x="36" y="31">Echocardiography</tspan>
                 </text>
                 <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="55">We can see that you are a smoker. </tspan>
-                    <tspan x="36" y="79">Surely you don’t need another...</tspan>
+                    <tspan x="36" y="55">Your blood pressure has been pretty </tspan>
+                    <tspan x="36" y="79">high lately. How about you...</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="96" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-3)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-2"></use>
@@ -56,8 +56,8 @@
                     <tspan x="36" y="187">Pulmonary Function Test</tspan>
                 </text>
                 <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="211">We can see that you are a smoker. </tspan>
-                    <tspan x="36" y="235">Surely you don’t need another...</tspan>
+                    <tspan x="36" y="211">Seeing as you are a smoker, you should </tspan>
+                    <tspan x="36" y="235">get your lungs checked.</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="252" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
@@ -74,11 +74,11 @@
                 <rect id="Rectangle" fill-opacity="0.2" fill="#446691" filter="url(#filter-7)" x="24" y="324" width="312" height="132" rx="24"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="312" width="336" height="96" rx="6"></rect>
                 <text id="Pulmonary-Function-T" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
-                    <tspan x="36" y="343">Pulmonary Function Test</tspan>
+                    <tspan x="36" y="343">Dental Appointment</tspan>
                 </text>
                 <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="367">We can see that you are a smoker. </tspan>
-                    <tspan x="36" y="391">Surely you don’t need another...</tspan>
+                    <tspan x="36" y="367">It's been a while since you've gone </tspan>
+                    <tspan x="36" y="391">to the dentist. I would advise you...</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="408" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-9)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-8"></use>

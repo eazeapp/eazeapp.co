@@ -1,12 +1,12 @@
 - img: recommended.svg
   icon: heart.svg
-  title: Recommended Appointments
-  text: An advanced AI that feeds of your health profile data and conditions and displays recommended visits to certified specialists.
+  title: Medical suggestions
+  text: eaze adapts to your health profile, recommends tailored next steps in your own medical routine.
 - img: calendar.svg
   icon: calendar.svg
-  title: Health Events Scheduler
-  text: Manage all your important health events, from check-ups to analysis to your daily medication needs, through a simple, user-friendly event scheduler.
+  title: Health Events Overview
+  text: Manage all your health related matters, from regular check-ups to complex procedures, with comfort and security.
 - img: medication.svg
   icon: pill.svg
-  title: Medication Reminder
-  text: Keep track of your medication. When the time comes, eaze will remind you to take your meds in due time.
+  title: Medicine Manager
+  text: eaze gives you all the important information about your medicine, along with your personal notes. When the time comes, you will be reminded to take it.
