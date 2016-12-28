@@ -1,6 +1,7 @@
+language: en
 url: "http://eazeapp.co/"
 title: "Eaze - Your personal health assistant"
 description: "eaze is an AI powered app that integrates with your medical routine and helps you achieve a healthier lifestyle."
 banner: ""
-twitter: @eazeapp
+twitter: "@eazeapp"
 fb_admins: 1590595051171459
