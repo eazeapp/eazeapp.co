@@ -1,9 +1,9 @@
-.Flex.column.rowDesktop
-  .Cage.u-largePushRightDesktop
+.Flex.column.rowDesktop.alignCenter.u-fullWidth
+  .Grid.two.unpadded
     .Img.full.FeaturedImg
       = partial "images/#{feature.img}"
 
-  .Cage.large.Flex.column.justifyCenter.alignCenter.alignStartDesktop
+  .Flex.column.justifyCenter.alignCenter.alignStartDesktop
     img.Icon src="images/icons/#{feature.icon}"
 
     .u-xSmallPushBottom
@@ -12,7 +12,7 @@
 
     .u-xSmallPushBottom
 
-    .Cage.small
+    .Cage.base
       .Text.small.steelTwo
         = feature.text
 
