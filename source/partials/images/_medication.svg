@@ -30,8 +30,8 @@
                     <tspan x="36" y="86">Bi-daily, 10:00 AM - 08:00PM </tspan>
                 </text>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="120" width="336" height="72" rx="6"></rect>
-                <text id="Singulair" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
-                    <tspan x="36" y="151">Singulair</tspan>
+                <text id="Plavix" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="151">Plavix</tspan>
                 </text>
                 <text id="Daily,-09:00-PM" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
                     <tspan x="36" y="170">Daily, 09:00 PM</tspan>
@@ -39,8 +39,8 @@
                 <text id="500mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
                     <tspan x="280.416" y="67">500mg</tspan>
                 </text>
-                <text id="10mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
-                    <tspan x="294.132" y="151">10mg</tspan>
+                <text id="75mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="292.62" y="151">75mg</tspan>
                 </text>
                 <g id="Group-3" transform="translate(0.000000, 60.000000)">
                     <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
@@ -48,19 +48,15 @@
                 </g>
                 <rect id="Rectangle" fill-opacity="0.2" fill="#535B6F" filter="url(#filter-3)" x="24" y="348" width="312" height="72" rx="24"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="336" width="336" height="72" rx="6"></rect>
-                <text id="Ranexa" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
-                    <tspan x="36" y="367">Ranexa</tspan>
+                <text id="Imitrex" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                    <tspan x="36" y="367">Imitrex</tspan>
                 </text>
-                <text id="Bi-daily,-10:00-AM--" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="386">Bi-daily, 10:00 AM - 08:00PM </tspan>
+                <text id="One-Time,-11:00-AM" font-family="Europa-Regular, Europa" font-size="14" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="386">One-Time, 11:00 AM</tspan>
                 </text>
-                <text id="500mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
-                    <tspan x="280.416" y="367">500mg</tspan>
+                <text id="50mg" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#535B6F">
+                    <tspan x="291.072" y="367">50mg</tspan>
                 </text>
-                <g id="Group-3" transform="translate(0.000000, 360.000000)">
-                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
-                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
-                </g>
                 <g id="Group-3" transform="translate(0.000000, 144.000000)">
                     <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#F0E2A7"></path>
                     <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
@@ -86,6 +82,7 @@
                 <text id="For-General-Medicati" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
                     <tspan x="12" y="319">For General Medication</tspan>
                 </text>
+                <path d="M13.2,370.8 L13.2,366.002968 C13.2,365.346913 12.6627417,364.8 12,364.8 C11.3326378,364.8 10.8,365.338587 10.8,366.002968 L10.8,370.8 L6.00296795,370.8 C5.34691315,370.8 4.8,371.337258 4.8,372 C4.8,372.667362 5.3385871,373.2 6.00296795,373.2 L10.8,373.2 L10.8,377.997032 C10.8,378.653087 11.3372583,379.2 12,379.2 C12.6673622,379.2 13.2,378.661413 13.2,377.997032 L13.2,373.2 L17.997032,373.2 C18.6530869,373.2 19.2,372.662742 19.2,372 C19.2,371.332638 18.6614129,370.8 17.997032,370.8 L13.2,370.8 Z M12,384 C18.627417,384 24,378.627417 24,372 C24,365.372583 18.627417,360 12,360 C5.372583,360 0,365.372583 0,372 C0,378.627417 5.372583,384 12,384 Z" id="Combined-Shape" fill="#F0E2A7"></path>
             </g>
         </g>
     </g>

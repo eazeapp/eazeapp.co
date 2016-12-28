@@ -31,12 +31,12 @@
             <g id="recommended" transform="translate(270.000000, 708.000000)">
                 <rect id="Rectangle" fill-opacity="0.2" fill="#446691" filter="url(#filter-1)" x="24" y="12" width="312" height="132" rx="24"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="0" width="336" height="96" rx="6"></rect>
-                <text id="Pulmonary-Function-T" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                <text id="Echocardiography" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
                     <tspan x="36" y="31">Echocardiography</tspan>
                 </text>
-                <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
+                <text id="Your-blood-pressure" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
                     <tspan x="36" y="55">Your blood pressure has been pretty </tspan>
-                    <tspan x="36" y="79">high lately. How about you...</tspan>
+                    <tspan x="36" y="79">high lately. How about you…</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="96" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-3)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-2"></use>
@@ -55,9 +55,9 @@
                 <text id="Pulmonary-Function-T" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
                     <tspan x="36" y="187">Pulmonary Function Test</tspan>
                 </text>
-                <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="211">Seeing as you are a smoker, you should </tspan>
-                    <tspan x="36" y="235">get your lungs checked.</tspan>
+                <text id="Seeing-as-you-are-a" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="211">Seeing as you are a smoker, you </tspan>
+                    <tspan x="36" y="235">should get your lungs checked.</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="252" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
@@ -67,18 +67,14 @@
                 <text id="Ignore" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#FFA69E">
                     <tspan x="239" y="277">Ignore</tspan>
                 </text>
-                <g id="Group-3" transform="translate(0.000000, 180.000000)">
-                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#858B99"></path>
-                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
-                </g>
                 <rect id="Rectangle" fill-opacity="0.2" fill="#446691" filter="url(#filter-7)" x="24" y="324" width="312" height="132" rx="24"></rect>
                 <rect id="Rectangle" fill="#FFFFFF" x="12" y="312" width="336" height="96" rx="6"></rect>
-                <text id="Pulmonary-Function-T" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
+                <text id="Dental-Appointment" font-family="Europa-Bold, Europa" font-size="18" font-weight="bold" line-spacing="24" fill="#535B6F">
                     <tspan x="36" y="343">Dental Appointment</tspan>
                 </text>
-                <text id="We-can-see-that-you" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
-                    <tspan x="36" y="367">It's been a while since you've gone </tspan>
-                    <tspan x="36" y="391">to the dentist. I would advise you...</tspan>
+                <text id="It’s-been-a-while-si" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#858B99">
+                    <tspan x="36" y="367">It’s been a while since you’ve gone to </tspan>
+                    <tspan x="36" y="391">the dentist. I would advise you…</tspan>
                 </text>
                 <rect id="Rectangle-8" fill="#FFA69E" x="12" y="408" width="168" height="36"></rect>
                 <use id="Rectangle-8" stroke="#FFA69E" mask="url(#mask-9)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-8"></use>
@@ -88,10 +84,8 @@
                 <text id="Ignore" font-family="Europa-Regular, Europa" font-size="18" font-weight="normal" line-spacing="24" fill="#FFA69E">
                     <tspan x="239" y="433">Ignore</tspan>
                 </text>
-                <g id="Group-3" transform="translate(0.000000, 336.000000)">
-                    <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Combined-Shape" fill="#858B99"></path>
-                    <path d="M11.9999484,8.06699697 C10.1636286,4.62938592 5,5.63292399 5,9.94043772 C5,12.9065068 8.24972607,15.9393935 11.9999484,20 C15.7507542,15.9393935 18.9998969,12.9065068 18.9998969,9.94043772 C18.9998969,5.61828773 13.8228517,4.65484028 11.9999484,8.06699697 Z" id="Shape" fill="#FFFFFF"></path>
-                </g>
+                <path d="M12,360 C18.627417,360 24,354.627417 24,348 C24,341.372583 18.627417,336 12,336 C5.372583,336 0,341.372583 0,348 C0,354.627417 5.372583,360 12,360 Z M16.6652738,347.213853 C16.6652738,347.213853 16.1666981,348.256475 16.1666981,349.897341 C16.1666981,351.115977 15.7118893,353.710092 15.1481968,354.863444 C14.8885009,355.372862 14.1299921,355.284339 13.9568813,354.730507 C13.4148351,352.801197 13.0249651,347.967667 12.0060487,347.989873 C10.9659012,347.967667 10.5970844,352.801197 10.0559278,354.730507 C9.88257979,355.284339 9.12430817,355.372862 8.86366342,354.863444 C8.27897705,353.710092 7.82351591,351.115977 7.82351591,349.897341 C7.82351591,348.256475 7.32559251,347.213853 7.32559251,347.213853 C6.63220038,345.751126 6.56708367,344.154855 6.6104355,343.157193 C6.65384664,342.580487 6.95671644,341.870905 7.23906676,341.538715 C7.5204089,341.205615 8.04098674,340.895693 8.38720837,340.829133 C8.75543209,340.784781 9.49223537,340.784781 10.0559278,340.873486 L12.0060487,341.139177 L13.9568813,340.873486 C14.4981565,340.784781 15.2567247,340.784781 15.6036579,340.829133 C15.9718224,340.895693 16.492163,341.205615 16.7735051,341.538715 C17.0551438,341.870905 17.3591404,342.580487 17.3806087,343.157193 C17.4454882,344.154855 17.3806087,345.751126 16.6652738,347.213853 Z" id="Combined-Shape" fill="#858B99"></path>
+                <path d="M12,204 C18.627417,204 24,198.627417 24,192 C24,185.372583 18.627417,180 12,180 C5.372583,180 0,185.372583 0,192 C0,198.627417 5.372583,204 12,204 Z M19.1742633,194.165956 C19.1742633,191.411433 16.2236671,186.929547 14.410797,186.929547 C13.5456558,186.929547 13.0898433,187.955742 12.8560702,189.322876 C12.7152647,189.151683 12.6326769,189.019551 12.5582125,188.928408 L12.5582125,185.416296 C12.5582125,185.075838 12.3172186,184.8 11.9990524,184.8 C11.6808863,184.8 11.4398923,185.075838 11.4398923,185.416296 L11.4398923,189.007012 C11.3654279,189.167114 11.2715576,189.313714 11.1564762,189.453562 C10.9267648,188.044473 10.4741114,186.977288 9.59182086,186.977288 C7.77849945,186.977288 4.82609809,191.459174 4.82609809,194.212732 C4.82609809,196.967737 4.48175657,199.2 6.29462668,199.2 C8.10704549,199.2 11.3888955,196.967737 11.3888955,194.212732 C11.3888955,193.24103 11.3884442,192.054734 11.3108207,190.926305 C11.5892725,190.719427 11.8451593,190.483132 12.0604292,190.209705 C12.2287639,190.408868 12.4377155,190.629731 12.689992,190.855417 C12.6110146,191.992043 12.6110146,193.18702 12.6110146,194.165956 C12.6110146,196.920478 15.8928646,199.154188 17.706186,199.154188 C19.5163483,199.154188 19.1742633,196.920478 19.1742633,194.165956 Z" id="Combined-Shape" fill="#858B99"></path>
             </g>
         </g>
     </g>
