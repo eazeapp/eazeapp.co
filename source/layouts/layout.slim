@@ -20,13 +20,13 @@ html.Theme itemscope='' itemtype='http://schema.org/WebPage' lang=data.meta.lang
     meta name="twitter:title" content=data.meta.name
     meta name="twitter:description" content=data.meta.description
     meta name="twitter:creator" content=data.meta.twitter
-    meta name="twitter:image" content=data.meta.banner
+    meta name="twitter:image" content=data.meta.image
 
     // Open Graph General (Facebook & Pinterest)
     meta property="og:type" content="website"
     meta property="og:title" content=data.meta.name
     meta property="og:url" content=data.meta.url
-    meta property="og:image" content=data.meta.banner
+    meta property="og:image" content=data.meta.image
 
     meta property="og:description" content=data.meta.description
     meta property="og:site_name" content=data.meta.name
@@ -35,7 +35,7 @@ html.Theme itemscope='' itemtype='http://schema.org/WebPage' lang=data.meta.lang
     // Google Plus
     meta itemprop="name" content=data.meta.name
     meta itemprop="description" content=data.meta.description
-    meta itemprop="image" content=data.meta.banner
+    meta itemprop="image" content=data.meta.image
 
     // Preferred URL (rel="canonical")
     - if current_page.data.preferred_url
