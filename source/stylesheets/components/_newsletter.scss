@@ -8,7 +8,16 @@ $newsletter-submit-width: 120px;
   width: 100%;
   max-width: $form-max-width;
 
-  text-align: right;
+  text-align: left;
+}
+
+.Newsletter-emailLabel {
+  @include font;
+
+  color: $color-steel-two;
+
+  font-family: $font-family;
+  line-height: 1.5;
 }
 
 .Newsletter-email {
@@ -25,6 +34,10 @@ $newsletter-submit-width: 120px;
   &:focus {
     outline: none;
   }
+}
+
+.Newsletter-submit {
+  text-align: right;
 }
 
 .Newsletter-submitButton {
