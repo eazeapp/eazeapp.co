@@ -9,30 +9,33 @@ html.Theme itemscope='' itemtype='http://schema.org/WebPage' lang=data.site.lang
     = stylesheet_link_tag 'all'
     = yield_content :stylesheets
 
-    title="Eaze"
+      title=data.meta.title
 
-    meta name='description' content="TODO"
+    meta name='description' content=data.meta.description
     meta name='robots' content='index,follow'
 
     // Twitter
-    meta name='twitter:card' content="summary"
-    meta name='twitter:site' content="TODO"
-    meta name='twitter:title' content="TODO"
-    meta name='twitter:description' content="TODO"
-    meta name='twitter:creator' content="TODO"
+    meta name="twitter:card" content="summary_large_image"
+    meta name="twitter:site" content=data.meta.twitter
+    meta name="twitter:title" content=data.meta.name
+    meta name="twitter:description" content=data.meta.description
+    meta name="twitter:creator" content=data.meta.twitter
+    meta name="twitter:image" content=data.meta.banner
 
     // Open Graph General (Facebook & Pinterest)
-    meta property='og:url' content="TODO"
-    meta property='og:title' content="TODO"
-    meta property='og:description' content="TODO"
-    meta property='og:site_name' content="TODO"
-    meta property='og:image' content="TODO"
-    meta property='fb:admins' content="TODO"
-    meta property='og:type' content='website'
+    meta property="og:type" content="website"
+    meta property="og:title" content=data.meta.name
+    meta property="og:url" content=data.meta.url
+    meta property="og:image" content=data.meta.banner
+
+    meta property="og:description" content=data.meta.description
+    meta property="og:site_name" content=data.meta.name
+    meta property="fb:admins" content=data.meta.fb_admins
+
     // Google Plus
-    meta itemprop='name' content="TODO"
-    meta itemprop='description' content="TODO"
-    meta itemprop='image' content="TODO"
+    meta itemprop="name" content=data.meta.name
+    meta itemprop="description" content=data.meta.description
+    meta itemprop="image" content=data.meta.banner
 
     // Preferred URL (rel="canonical")
     - if current_page.data.preferred_url
