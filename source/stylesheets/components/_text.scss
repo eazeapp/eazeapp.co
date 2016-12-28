@@ -14,3 +14,11 @@ $text-line-height: 1.5;
 .Text.centered {
   text-align: center;
 }
+
+.Text.small {
+  @include font($size: 'small');
+}
+
+.Text.tiny {
+  @include font($size: 'tiny');
+}

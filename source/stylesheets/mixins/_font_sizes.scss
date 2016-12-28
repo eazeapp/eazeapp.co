@@ -1,34 +1,63 @@
 // scss-lint:disable TrailingSemicolon
 $default-font-sizes: (
   desktop: (
-    small: 18px,
-    base: 24px,
-    large: 42px,
+    tiny: (
+      font-size: 18px,
+      line-height: 24px,
+    ),
+    small: (
+      font-size: 18px,
+      line-height: 24px,
+    ),
+    base: (
+      font-size: 24px,
+      line-height: 36px
+    ),
+    large: (
+      font-size: 32px,
+      line-height: 42px,
+    )
   ),
   mobile: (
-    small: 14px,
-    base: 18px,
-    large: 32px,
+    tiny: (
+      font-size: 14px,
+      line-height: 24px,
+    ),
+    small: (
+      font-size: 18px,
+      line-height: 24px,
+    ),
+    base: (
+      font-size: 18px,
+      line-height: 24px,
+    ),
+    large: (
+      font-size: 32px,
+      line-height: 42px,
+    ),
   )
 );
 // scss-lint:enable TrailingSemicolon
 
 @mixin font($size: 'base', $font-sizes: $default-font-sizes, $responsive: true) {
-  $mobile-size: map-get(map-get($font-sizes, 'mobile'), $size);
-  $desktop-size: map-get(map-get($font-sizes, 'desktop'), $size);
+  $mobile-variant: map-get(map-get($font-sizes, 'mobile'), $size);
+  $desktop-variant: map-get(map-get($font-sizes, 'desktop'), $size);
 
   @if ($responsive) {
     @include mobile {
-      font-size: $mobile-size;
+      @include font-properties($mobile-variant);
     }
 
     @include desktop {
-      font-size: $desktop-size;
+      @include font-properties($desktop-variant);
     }
   } @else {
-    font-size: $desktop-size;
+    @include font-properties($desktop-variant);
   }
 }
 
-@mixin single-font-size($size) {
+@mixin font-properties($variant) {
+  @each $rule, $value in $variant {
+    #{$rule}: $value;
+  }
 }

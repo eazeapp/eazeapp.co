@@ -8,6 +8,10 @@
   @include font;
 }
 
+.Heading.small {
+  @include font($size: 'small');
+}
+
 .Heading.bold {
   font-weight: $font-weight-bold;
 }
