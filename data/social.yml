@@ -1,15 +1,7 @@
 - name: Facebook
   icon: facebook.svg
-  link: "#"
+  link: "https://facebook.com/eazeapp"
 
 - name: Twitter
   icon: twitter.svg
-  link: "#"
-
-- name: Instagram
-  icon: instagram.svg
-  link: "#"
-
-- name: Medium
-  icon: medium.svg
-  link: "#"
+  link: "https://twitter.com/eazeapp"
