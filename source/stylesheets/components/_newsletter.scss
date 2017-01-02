@@ -12,7 +12,7 @@ $newsletter-submit-width: 120px;
 }
 
 .Newsletter-emailLabel {
-  @include font;
+  @include font($size: 'small');
 
   color: $color-steel-two;
 
@@ -40,26 +40,9 @@ $newsletter-submit-width: 120px;
 }
 
 .Newsletter-submitButton {
-  @include font($size: 'small');
-
   display: inline-block;
   box-sizing: border-box;
   width: $newsletter-submit-width;
   height: $newsletter-submit-height;
-  padding: $newsletter-submit-padding-tiny $newsletter-submit-padding-small;
   margin: 0;
-
-  background-color: $color-light-salmon;
-  border: 0;
-  border-radius: $newsletter-submit-padding-tiny;
-  color: $color-white;
-
-  font-family: $font-family;
-
-  transition: all 0.2s ease-in-out 0s;
-
-  &:hover {
-    background-color: lighten($color-light-salmon, 3);
-    cursor: pointer;
-  }
 }

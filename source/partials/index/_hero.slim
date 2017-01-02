@@ -1,15 +1,17 @@
 .Panel.blue.Separator
   .Grid.five
-    .u-smallPaddingBottom.u-desktop
-    .u-hugePaddingBottom
+    .u-hugePaddingBottom.u-desktop
+    .u-xLargePaddingBottom.u-mobile
 
     .Flex.column.justifyCenter.spaceBetween.rowDesktop
       .Flex.column.Cage
         .Cage.large
-          h1.Heading.secondary.u-bold
-            | eaze
+          img.Logo.u-tinyPushRight src="images/logo.svg"
 
-          .u-smallPushBottom
+          h1.Heading.logo.u-bold
+            | Eaze
+
+          .u-xSmallPushBottom
 
           h1.Heading
             | Your personal health assistant.
@@ -19,16 +21,13 @@
         .u-xSmallPushBottom
 
         .Cage.large
-          h2.Heading.small.faded
-            | eaze is an AI powered app that integrates with your
-            br
-            | routine and helps you achieve a healthier lifestyle.
+          h2.Heading.small.secondary.faded
+            | eaze is an AI powered app that integrates with your routine and helps you achieve a healthier lifestyle.
 
-        .u-xSmallPushBottom.u-desktop
-        .u-smallPushBottom.u-mobile
+        .u-largePushBottom
 
         .Cage.large
-          img src="images/icons/btn-apple-disabled.svg"
+          = partial "soon"
 
         .u-largePushBottom.u-mobile
 

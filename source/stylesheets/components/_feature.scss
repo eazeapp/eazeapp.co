@@ -1,0 +1,19 @@
+$feature-img-shadow-size: 18px;
+
+.Feature-Img {
+  @include desktop {
+    margin-left: -$feature-img-shadow-size;
+  }
+}
+
+.Feature-text {
+  @include mobile {
+    margin-top: -(3 * $feature-img-shadow-size);
+    margin-bottom: 3 * $feature-img-shadow-size;
+    text-align: center;
+  }
+}
+
+.Feature-marginFix {
+  margin-bottom: -$feature-img-shadow-size;
+}

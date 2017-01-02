@@ -1,19 +1,21 @@
 .Flex.column.rowDesktop.alignCenter.u-fullWidth
   .Grid.two.unpadded
-    .Img.full.FeaturedImg
+    .Img.full.Feature-img
       = partial "images/#{feature.img}"
 
-  .Flex.column.justifyCenter.alignCenter.alignStartDesktop
+  .Feature-text.Flex.column.justifyCenter.alignCenter.alignStartDesktop
     img.Icon src="images/icons/#{feature.icon}"
 
-    .u-xSmallPushBottom
+    .u-xSmallPushBottom.u-desktop
+    .u-tinyPushBottom.u-mobile
 
     h2.Heading.secondary.bold = feature.title
 
-    .u-xSmallPushBottom
+    .u-xSmallPushBottom.u-desktop
+    .u-tinyPushBottom.u-mobile
 
     .Cage.base
       .Text.small.steelTwo
         = feature.text
 
-.u-hugePushBottom
+.Feature-marginFix

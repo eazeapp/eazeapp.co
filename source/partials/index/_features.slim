@@ -1,7 +1,10 @@
 .Panel.white
-  .Grid.five
-    .u-hugePaddingBottom
+  .u-xLargePaddingBottom.u-desktop
 
+  .Grid.five
+    .u-xLargePaddingBottom.u-mobile
     .Flex.column.alignCenter
       - data.features.each do |feature|
         = partial "features/feature", locals: { feature: feature }
+
+  .u-xLargePushBottom

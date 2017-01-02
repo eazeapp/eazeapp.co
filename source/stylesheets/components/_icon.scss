@@ -8,3 +8,7 @@ $icon-size-desktop: 36px;
     max-width: $icon-size-desktop;
   }
 }
+
+.Icon.textAligned {
+  vertical-align: sub;
+}

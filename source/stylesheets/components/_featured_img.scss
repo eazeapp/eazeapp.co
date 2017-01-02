@@ -1,7 +1,0 @@
-$featured-img-shadow-size: 18px;
-
-.FeaturedImg {
-  @include desktop {
-    margin-left: -$featured-img-shadow-size;
-  }
-}

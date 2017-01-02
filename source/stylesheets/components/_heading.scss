@@ -19,3 +19,13 @@
 .Heading.faded {
   opacity: 0.7;
 }
+
+.Heading.logo {
+  @include font($responsive: false);
+
+  display: inline-block;
+}
+
+.Heading.centered {
+  text-align: center;
+}
